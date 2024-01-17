@@ -10,7 +10,7 @@
 <br>
 
 ## Навыки и технологии
-- Инструменты для создания, обучения и применения нейросетей: ``Phyton``, ``Keras/Tensorflow``, ``Pandas`` , ``Numpy``, ``Matplotlib``
+- Инструменты для создания, обучения и применения нейросетей: ``Python``, ``Keras/Tensorflow``, ``Pandas`` , ``Numpy``, ``Matplotlib``
 - Среды: ``Google Colab``, ``Jupyter Notebook``, ``Docker``
 
 ## Проекты
